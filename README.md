@@ -4,11 +4,15 @@ This is a tutorial for generating beats from your own songs for the SideQuest ga
 
 IMPORTANT: Before buying this game please make sure you can generate the beats for your songs using this tool. You should get an "output" file that has folders with the names of your songs and in these folders should be files such as:
 
-- songname (folder)
--- songname.mp3
--- drums_easy.txt
--- drums_medium.txt
--- drums_hard.txt
+-> songname (folder)
+<br>
+---> songname.mp3
+<br>
+---> drums_easy.txt
+<br>
+---> drums_medium.txt
+<br>
+---> drums_hard.txt
 
 ## System Requirements
 
