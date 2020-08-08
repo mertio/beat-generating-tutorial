@@ -35,6 +35,13 @@ Before starting, let's prepare the music we want to convert.
 
 ### Installing Docker
 
+First we need to install Docker Desktop for Windows in order to use our tool. Go to this link and click on "Get stable" to download the latest version:
+https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
+<pic of docker download page>
+
+### Setting up enough RAM for Docker to use
+
+After installing Docker, we need to assign at least 6 GB of RAM to it. This is because the AI needs a lot of RAM to generate the beats.
 
 ## For Mac
