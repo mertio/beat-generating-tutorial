@@ -13,6 +13,8 @@ IMPORTANT: Before buying this game please make sure you can generate the beats f
 ---> drums_medium.txt
 <br>
 ---> drums_hard.txt
+<br>
+ONLY IF YOU MANAGE TO SUCCESSFULLY GET THESE FILES, SHOULD YOU BUY THIS GAME
 
 ## System Requirements
 
