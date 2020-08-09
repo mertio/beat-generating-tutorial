@@ -77,7 +77,18 @@ I advise try first with a small number of songs since it can take a while. After
 
 Now all that's left to do is copy these music folders into our game folder. The directory below is where we will copy them:
 ```
-/Android/data/com.mertbbicak.HitTheStars
+/Android/data/com.mertbbicak.HitTheStars/files/DrumGame/Tracks/
 ```
-
+So the Tracks folder should contain the music folders like:
+<br>
+--> Tracks
+<br>
+----> song1
+<br>
+----> song2
+<br>
+----> song3
+<br>
+<br>
+... and so on
 
