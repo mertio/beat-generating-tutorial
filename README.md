@@ -3,7 +3,7 @@
 This is a tutorial for generating beats from your own songs for the SideQuest game "Hit The Stars Unlimited". It is public and free for anyone to use. 
 <br><br>
 You should get an "output" file that has folders with the names of your songs and in these folders should be files such as:
-<br>
+<br><br>
 -> songname (folder)
 <br>
 ---> songname.mp3
@@ -17,9 +17,8 @@ You should get an "output" file that has folders with the names of your songs an
 
 ## System Requirements
 
-A computer that has at least 8 GB of RAM.
-
-## For Windows
+- A computer that has at least 8 GB of RAM.
+- 2 GB of hard disk space
 
 ### Preparing The Music
 
@@ -33,13 +32,17 @@ Before starting, let's prepare the music we want to convert.
 
 ### Installing Docker
 
-First we need to install Docker Desktop for Windows in order to use our tool. Go to this link and click on "Get stable" to download the latest version:
-https://hub.docker.com/editions/community/docker-ce-desktop-windows/
-
-<pic of docker download page>
+First we need to install Docker Desktop to our computer:
+<br>
+https://www.docker.com/products/docker-desktop
 
 ### Setting up enough RAM for Docker to use
 
 After installing Docker, we need to assign at least 6 GB of RAM to it. This is because the AI needs a lot of RAM to generate the beats.
 
-## For Mac
+
+### Running the Docker command
+
+### Putting the songs into the game
+
+
