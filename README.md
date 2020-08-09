@@ -75,4 +75,4 @@ I advise try first with a small number of songs since it can take a while. After
 
 ### Putting the songs into the game
 
-
+Now all that's left to do is copy these music folders into our game folder.
