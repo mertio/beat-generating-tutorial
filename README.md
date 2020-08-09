@@ -79,6 +79,9 @@ Now all that's left to do is copy these music folders into our game folder. The 
 ```
 /Android/data/com.mertbbicak.HitTheStars/files/DrumGame/Tracks/
 ```
+<br>
+- Note: We create the DrumGame and Tracks folders ourselves
+<br>
 So the Tracks folder should contain the music folders like:
 <br>
 --> Tracks
@@ -94,4 +97,4 @@ So the Tracks folder should contain the music folders like:
 
 ### Open up the game and enjoy
 
-If everything is done right, we will see our own songs in the game with star prefixes in front of them
+If everything is done right, we will see our own songs in the game with star prefixes in front of them. I hope you enjoy!
