@@ -40,7 +40,7 @@ https://www.docker.com/products/docker-desktop
 
 After installing Docker, we need to assign at least 6 GB of RAM to it. This is because the AI needs a lot of RAM to generate the beats:
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](dockerSettings.png?raw=true)
 
 ### Running the Docker command
 
