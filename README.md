@@ -81,7 +81,7 @@ Now all that's left to do is copy these music folders into our game folder. The 
 ```
 <br>
 <br>
-- Note: We create the DrumGame and Tracks folders ourselves
+- Note: We might need to create the DrumGame and Tracks folders ourselves if the game was never opened after the install
 <br>
 <br>
 So the Tracks folder should contain the music folders like:
