@@ -48,7 +48,7 @@ After setting up Docker, all we need to do is open the command line and run the 
 ```
 docker run -ti -v <absolute-path-of-folder-where-all-our-music-is>:/music/ mertbbicak/auto-drum-transcription:1.0.0
 ```
-I advise try first with a small number of songs since it can take a while. After the command is complete, you should get an "output" folder with each song having its own folder, along with their beat files. The folder structure should look something like this:
+I advise try first with a small number of songs at first, since it can take a while. After the command is complete, we should get an "output" folder inside our own music folder with each song having its own folder, along with their beat files. The folder structure should look something like this:
 <br><br>
 
 -> output
