@@ -75,4 +75,9 @@ I advise try first with a small number of songs since it can take a while. After
 
 ### Putting the songs into the game
 
-Now all that's left to do is copy these music folders into our game folder.
+Now all that's left to do is copy these music folders into our game folder. The directory below is where we will copy them:
+```
+/Android/data/com.mertbbicak.HitTheStars
+```
+
+
