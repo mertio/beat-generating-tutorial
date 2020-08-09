@@ -48,7 +48,7 @@ After setting up Docker, all we need to do is open the command line and run the 
 ```
 docker run -ti -v <absolute-path-of-folder-where-all-our-music-is>:/music/ mertbbicak/auto-drum-transcription:1.0.0
 ```
-I advise try first with a small number of songs at first, since it can take a while. After the command is complete, we should get an "output" folder inside our own music folder with each song having its own folder, along with their beat files. The folder structure should look something like this:
+I advise to try first with a small number of songs at first, since it can take a while. After the command is complete, we should get an "output" folder inside our own music folder with each song having its own folder, along with their beat files. The folder structure should look something like this:
 <br><br>
 
 -> output
@@ -80,9 +80,12 @@ Now all that's left to do is copy these music folders into our game folder. The 
 /Android/data/com.mertbbicak.HitTheStars/files/DrumGame/Tracks/
 ```
 <br>
+<br>
 - Note: We create the DrumGame and Tracks folders ourselves
 <br>
+<br>
 So the Tracks folder should contain the music folders like:
+<br>
 <br>
 --> Tracks
 <br>
