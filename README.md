@@ -92,3 +92,6 @@ So the Tracks folder should contain the music folders like:
 <br>
 ... and so on
 
+### Open up the game and enjoy
+
+If everything is done right, we will see our own songs in the game with star prefixes in front of them
