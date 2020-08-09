@@ -52,15 +52,25 @@ I advise try first with a small number of songs since it can take a while. After
 <br><br>
 
 -> output
+<br>
 ----> song1
+<br>
 ------> song1.mp3
+<br>
 ------> drums_easy.txt
+<br>
 ------> drums_medium.txt
+<br>
 ------> drums_hard.txt
+<br>
 ----> song2
+<br>
 ------> song2.mp3
+<br>
 ------> drums_easy.txt
+<br>
 ------> drums_medium.txt
+<br>
 ------> drums_hard.txt
 
 ### Putting the songs into the game
