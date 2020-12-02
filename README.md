@@ -1,6 +1,6 @@
 # Beat Generating Tutorial
 
-This is a tutorial for generating beats from your own songs for the SideQuest game "Hit The Stars" (Also works for the demo with the latest version). It is public and free for anyone to use. 
+This is a tutorial for generating beats from your own songs for the SideQuest game "Hit The Stars" (Also works for the demo with the latest version(1.5)). It is public and free for anyone to use. 
 <br><br>
 At the end of it you should get an "output" file that has folders with the names of your songs and in these folders should be files such as:
 <br><br>
