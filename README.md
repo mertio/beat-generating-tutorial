@@ -1,8 +1,8 @@
 # Beat Generating Tutorial
 
-This is a tutorial for generating beats from your own songs for the SideQuest game "Hit The Stars Unlimited". It is public and free for anyone to use. 
+This is a tutorial for generating beats from your own songs for the SideQuest game "Hit The Stars". It is public and free for anyone to use. 
 <br><br>
-You should get an "output" file that has folders with the names of your songs and in these folders should be files such as:
+At the end of it you should get an "output" file that has folders with the names of your songs and in these folders should be files such as:
 <br><br>
 -> songname (folder)
 <br>
@@ -24,10 +24,10 @@ You should get an "output" file that has folders with the names of your songs an
 
 Before starting, let's prepare the music we want to convert.
 
-1) Create a folder and put the songs you want into it. I suggest only a few for your first try since it can take a long time.
+1) Create a folder and put into it the songs you want to generate beats for. I suggest only a few for your first try since it can take a long time.
 2) They should all be mp3 files.
-3) IMPORTANT: They should only contain English characters and not other alphabets like : ç, ü, ğ, ö, etc.
-4) Name all your songs in a nice format like (band - songname.mp3) since they will be shown in the game that way.
+3) IMPORTANT: The song names should only contain English characters and not other alphabets like : ç, ü, ğ, ö, etc.
+4) Name all your songs in a nice format like (band - songname.mp3) since they will be shown in the game's songs list that way.
 5) I suggest your mp3 files should not exceed 6 MB each for RAM purposes.
 
 ### Installing Docker
